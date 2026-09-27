@@ -1,9 +1,9 @@
 {
   "publicKey": "ed25519:0611727e3dbe4f962680cfcf7328e453478d8846e69c7687c85a11c2056c7fdd",
   "handle": "donald.social",
-  "repoURL": null,
+  "repoURL": "https://github.com/gargster/donald-social.git",
   "displayName": "Donald",
   "bio": "Student",
   "created": "2026-09-27T07:58:01.407209Z",
-  "signature": "Mg8vbHbmXnaUCOk/tHYGZof1aQ5afKU6S6damb8niNeEP3J+ac0e39s0msvnWGN90a2uJKtTOVoVAubclTJLAQ=="
+  "signature": "VTqZUzHgZSLWQtT12HCnsbkfTmd5onBmtXan4q7rYQqmSedqck0suUyR6/VAspCrABONuEqDwmghlENhFoFQDA=="
 }
